@@ -1,0 +1,1 @@
+SELECT * FROM `dbt-test-479916.dbt_test_dataset.customer`;
